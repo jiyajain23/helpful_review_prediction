@@ -1,5 +1,5 @@
 # 🛒 E-commerce Review Helpfulness Predictor
-
+## DEMO LINK- https://jj-predictionmodel.streamlit.app/
 ## 📋 Problem Statement
 In e-commerce, user reviews are often ranked by recency or star rating, rather than **utility**. New buyers are often forced to skim through thousands of reviews, many of which are low-value (e.g., "Nice product" or "Good"). 
 
