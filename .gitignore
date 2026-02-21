@@ -4,8 +4,7 @@ Reviews.csv
 # Ignore the entire data folder
 amazon-fine-food-reviews/
 
-# Ignore the model and vectorizer files (usually too big for Git)
-*.pkl
+
 
 # Ignore python cache folders
 __pycache__/
