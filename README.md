@@ -32,7 +32,7 @@ I compared multiple supervised learning models to find the best balance between 
 
 ### Hyperparameter Tuning
 Used `GridSearchCV` to find the optimal regularization strength.
-* **Best Parameters:** `{'C': 100, 'solver': 'liblinear', 'class_weight': 'balanced'}`
+* **Best Parameters:** `{'C': 10, 'solver': 'liblinear', 'class_weight': 'balanced'}`
 
 ### Final Metrics:
 | Metric | Score |
